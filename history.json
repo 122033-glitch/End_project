@@ -1,0 +1,26 @@
+[
+  {
+    "expression": "8888/8888",
+    "result": "1.0"
+  },
+  {
+    "expression": "1.0*6",
+    "result": "6.0"
+  },
+  {
+    "expression": "6.0+5.1",
+    "result": "11.1"
+  },
+  {
+    "expression": "1.0/1.00",
+    "result": "1.0"
+  },
+  {
+    "expression": "1.0*9.06",
+    "result": "9.06"
+  },
+  {
+    "expression": "9.06*3.25",
+    "result": "29.445"
+  }
+]
